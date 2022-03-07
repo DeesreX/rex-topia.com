@@ -1,0 +1,10 @@
+.game-container{
+    width: auto;
+    height: 250px;
+}
+
+.header{
+    height: 30px;
+    background-color: black;
+    width:fit-content
+}
